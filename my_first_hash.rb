@@ -1,5 +1,7 @@
 def my_hash
-  your_hash = []
+  your_hash = {
+    name: 'Willis'
+  }
 end
 
 
